@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,U as s}from"./chunks/framework.4b3dfbad.js";const g=JSON.parse('{"title":"Background","description":"","frontmatter":{},"headers":[],"relativePath":"approach.md"}'),n={name:"approach.md"},o=s("",31),i=[o];function r(c,h,l,d,m,p){return a(),t("div",null,i)}const f=e(n,[["render",r]]);export{g as __pageData,f as default};
